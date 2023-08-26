@@ -4,7 +4,7 @@ public class testcase1
 {
  public static void main(String[] args)
  {
-	int number1=5;
+	int number1=7;
 	int number2=6;
 	int sum = addNum(number1,number2);
 	System.out.println(sum);
