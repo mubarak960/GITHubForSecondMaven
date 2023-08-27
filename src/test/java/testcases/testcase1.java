@@ -9,6 +9,7 @@ public class testcase1
 	int number3=8;
 	int number4=10;
 	int number5=12;
+	int number6=16;
 	int sum = addNum(number1,number2);
 	System.out.println(sum);
  }
